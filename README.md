@@ -1,10 +1,10 @@
-# telkomsel-indihome-tower-performance-dashboard
+# Telkomsel Indihome Tower Performance Dashboard
 
-Power BI dashboard analyzing Indihome broadband tower performance for Telkomsel, Indonesia’s leading telecom operator. Focuses on identifying underperforming towers to optimize network efficiency, service alignment, and infrastructure ROI.
+Power BI dashboard analyzing Indihome broadband tower performance for Telkomsel, Indonesia’s leading telecom provider. Focuses on identifying underperforming towers to optimize network efficiency, service alignment, and infrastructure ROI.
 
 > ⚠️ **Disclaimer:** All numeric values have been altered for confidentiality. Patterns remain realistic, but do not reflect actual Telkomsel data.
 
-This project showcases a real-world Power BI dashboard created during my time working with **Telkomsel**, one of Indonesia’s largest telecommunications providers. The dashboard analyzes the performance of **Indihome** towers—Indihome being Telkomsel’s broadband internet and digital service brand.
+This project showcases a real-world Power BI dashboard created during my time working as a data analyst intern at **Telkomsel**, one of Indonesia’s largest telecommunications providers. The dashboard analyzes the performance of **Indihome** towers—Indihome being Telkomsel’s broadband internet and digital service brand.
 
 The goal was to identify underperforming towers generating less than IDR 30 million in monthly revenue, providing insights to optimize service alignment, infrastructure deployment, and network efficiency.
 
