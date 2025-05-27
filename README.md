@@ -18,6 +18,18 @@ You can see the interactive dashboard [**here**](./Indihome%20Tower%20Performanc
 
 ---
 
+## 🛠️ Tools Used
+
+- **Microsoft Excel**  
+  Used for initial data cleaning, joining datasets via `VLOOKUP` on `Site ID`, removing duplicates, categorizing revenue/payload tiers, and calculating averages.  
+  ➤ *Chosen for its speed and simplicity for small-scale, structured data.*
+
+- **Power BI**  
+  Used to build the interactive dashboard with filters, DAX measures, and conditional formatting to highlight underperforming towers.  
+  ➤ *Chosen for its strong visualization capabilities and easy integration with Excel and Microsoft ecosystem.*
+
+---
+
 ## 🔑 Key Metrics Tracked
 
 - **Revenue Category**  
