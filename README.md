@@ -8,6 +8,8 @@ This project showcases a real-world Power BI dashboard created during my time wo
 
 The goal was to identify underperforming towers generating less than IDR 30 million in monthly revenue, providing insights to optimize service alignment, infrastructure deployment, and network efficiency.
 
+![Indihome Tower Performance Dashboard](Indihome%20Tower%20Performance%20Dashboard.png)
+
 ---
 
 ## 🔑 Key Metrics Tracked
